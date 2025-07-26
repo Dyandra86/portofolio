@@ -1,0 +1,22 @@
+-- Menambahkan produk
+INSERT INTO products (nama, produk, harga, deskripsi, stok) VALUES
+('Samsung Galaxy A14', 'Smartphone', 2999000.00, 'Smartphone Android dengan fitur lengkap', 50),
+('Xiaomi Redmi Note 12', 'Smartphone', 2799000.00, 'Ponsel Android dengan performa tinggi', 35),
+('Asus Vivobook 14', 'Laptop', 7499000.00, 'Laptop ringan untuk pelajar dan pekerja', 20),
+('Lenovo ThinkPad X1', 'Laptop', 15999000.00, 'Laptop bisnis premium dan tahan banting', 15),
+('Canon EOS M50', 'Kamera', 8999000.00, 'Kamera mirrorless untuk pemula hingga pro', 10),
+('Sony WH-1000XM4', 'Headphone', 4299000.00, 'Headphone wireless dengan noise cancelling', 25),
+('Logitech MX Master 3S', 'Mouse', 1299000.00, 'Mouse ergonomis untuk produktivitas tinggi', 30),
+('Apple iPad 10th Gen', 'Tablet', 5999000.00, 'Tablet iPad untuk hiburan dan belajar', 18),
+('WD My Passport 1TB', 'Hard Drive', 949000.00, 'Hard disk eksternal dengan enkripsi', 40),
+('Samsung 970 EVO 1TB', 'SSD', 1799000.00, 'SSD NVMe performa tinggi untuk gaming', 12),
+('HP DeskJet 2775', 'Printer', 879000.00, 'Printer multifungsi untuk rumah dan kantor', 22),
+('TP-Link Archer C6', 'Router', 499000.00, 'Router WiFi dual band dengan MU-MIMO', 33),
+('Dell Ultrasharp U2723QE', 'Monitor', 7499000.00, 'Monitor 4K premium untuk desainer', 9),
+('Razer BlackWidow V3', 'Keyboard', 2199000.00, 'Keyboard mechanical dengan RGB lighting', 17),
+('Google Chromecast 4K', 'Streaming Device', 799000.00, 'Streaming device Android TV 4K', 27),
+('Xiaomi Smart Band 8', 'Wearable', 599000.00, 'Smartband untuk olahraga dan kesehatan', 36),
+('Kingston DDR4 16GB', 'RAM', 899000.00, 'RAM DDR4 3200MHz untuk PC atau laptop', 45),
+('MSI GeForce RTX 3060', 'GPU', 6399000.00, 'Kartu grafis untuk gaming dan rendering', 7),
+('Sandisk Ultra 128GB', 'Flashdisk', 199000.00, 'USB 3.0 flashdisk dengan kecepatan tinggi', 55),
+('Acer Aspire 5 Slim', 'Laptop', 6399000.00, 'Laptop murah berkualitas untuk pelajar', 19);
